@@ -1,0 +1,48 @@
+[
+  {
+    "id": "e7bd00c0-e7ac-4650-9d04-2febd95edf22",
+    "createdAt": 1763832725679,
+    "name": "421 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "address": "421 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "status": "target",
+    "tags": [],
+    "clientIds": []
+  },
+  {
+    "id": "a4d85de5-46a6-4ea2-a5bb-fcc199bc4244",
+    "createdAt": 1763840266319,
+    "name": "421 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "address": "421 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "status": "target",
+    "tags": [],
+    "clientIds": []
+  },
+  {
+    "id": "fea44dc0-0ae0-403d-b128-f1258cde1ab2",
+    "createdAt": 1763840935358,
+    "name": "421 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "address": "421 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "status": "target",
+    "tags": [],
+    "clientIds": []
+  },
+  {
+    "id": "8b49386c-e709-44f2-a6ba-8fc8508aebed",
+    "createdAt": 1763840949131,
+    "name": "417 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "address": "417 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "locationNotes": "-0.13459, 50.85413 (click-to-select)",
+    "status": "target",
+    "tags": [],
+    "clientIds": []
+  },
+  {
+    "id": "90d5acd2-96f3-4454-b103-ed5fb8c2002b",
+    "createdAt": 1763841041525,
+    "name": "421 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "address": "421 Ditchling Road, Brighton, BN1 6XB, United Kingdom",
+    "status": "target",
+    "tags": [],
+    "clientIds": []
+  }
+]

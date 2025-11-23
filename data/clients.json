@@ -1,0 +1,69 @@
+[
+  {
+    "id": "95cdc769-7d4b-49d9-bff9-ddd1e2bac209",
+    "createdAt": 1763819724022,
+    "name": "Bradley Hunt",
+    "stage": "lead",
+    "tags": [],
+    "activity": [
+      {
+        "id": "82f144fa-feb3-4925-b2c0-e06d8cd70a40",
+        "at": 1763828440920,
+        "type": "call",
+        "text": "Discussed with Bradley regarding @Example Project Alpha"
+      },
+      {
+        "id": "b0ae9c2c-c056-46f1-9d48-51b59ac7f075",
+        "at": 1763833486396,
+        "type": "note",
+        "text": "@421 Ditchling Road, Brighton, BN1 6XB, United Kingdom"
+      },
+      {
+        "id": "3fe66f4a-707f-41d4-a26f-c2a26abbe832",
+        "at": 1763840352144,
+        "type": "note",
+        "text": "@421 Ditchling Road, Brighton, BN1 6XB, United Kingdom"
+      },
+      {
+        "id": "8ca8f865-2057-4198-8f37-4d8f19daf25c",
+        "at": 1763840995506,
+        "type": "note",
+        "text": "@421 Ditchling Road, Brighton, BN1 6XB, United Kingdom @421 Ditchling Road, Brighton, BN1 6XB, United Kingdom"
+      },
+      {
+        "id": "0ee8caec-cffa-4b60-812d-8c058383544a",
+        "at": 1763841001262,
+        "type": "note",
+        "text": "@421 Ditchling Road, Brighton, BN1 6XB, United Kingdom @417 Ditchling Road, Brighton, BN1 6XB, United Kingdom"
+      }
+    ],
+    "documents": [
+      {
+        "id": "001d131a-ad94-4b4c-84d5-14d5d46d1305",
+        "uploadedAt": 1763828241525,
+        "name": "Heads of Terms",
+        "fileName": "Bradley Hunt - CV 2025.pdf",
+        "url": "/uploads/1763828241524_Bradley_Hunt_-_CV_2025.pdf"
+      }
+    ],
+    "company": "BH Properties",
+    "email": "Bradley@BHproperties.co.uk",
+    "phone": "07304065345",
+    "siteIds": [
+      "e7bd00c0-e7ac-4650-9d04-2febd95edf22"
+    ],
+    "jobTitle": "Land Agent"
+  },
+  {
+    "id": "dfda2f08-ba65-4313-a581-6a2feb1be080",
+    "createdAt": 1763886411867,
+    "name": "Kelly Wennington",
+    "company": "BH Properties",
+    "email": "kelly@BHproperties.co.uk",
+    "phone": "07795223311",
+    "stage": "lead",
+    "tags": [],
+    "activity": [],
+    "documents": []
+  }
+]

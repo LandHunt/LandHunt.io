@@ -1,1 +1,1 @@
-# LandHunt.io
+# Landhunt
